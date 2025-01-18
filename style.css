@@ -59,7 +59,7 @@ nav ul li a:hover {
 	background: linear-gradient( #FA4B37, #4f27df);
 }
 .active {
-	color: #fff;
+	color: #2e2e2e;
 	border-radius: 5px;
 /* 	background: linear-gradient( #FA4B37, #4f27df); */
 }
